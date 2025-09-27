@@ -1,5 +1,5 @@
 # Projeto de atividade 1 - Programação orientado à objetos 2
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samyr-Dev/poo2-p01/blob/main/license) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samyr-Dev/poo2-p01/blob/main/LICENSE) 
 
 # Sobre o projeto
 
